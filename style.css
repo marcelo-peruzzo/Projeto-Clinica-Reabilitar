@@ -769,3 +769,11 @@ footer .social-links {
 .scroll .logo_verde{
   display: none!important;
 }
+
+@media (max-width: 992px)
+{
+  #imagem-home
+   {
+    display: none;
+   }
+}
